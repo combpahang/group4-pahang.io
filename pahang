@@ -1,0 +1,6 @@
+git clone https://github.com/combpahang/combpahang.github.io
+cd combpahang.github.io
+echo "Pahang" > index.html
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
